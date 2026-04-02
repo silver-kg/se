@@ -1,2 +1,6 @@
-SE test
-wow wow wow pr test!!!
+*소프트웨어공학 수업용 레포지토리입니다.*
+
+**[4주차 과제]**  
+---
+- 프로젝트 1. 프로젝트 정의서 작성하기: project > 1. PDD.md  
+- 프로젝트 2. 대상 시스템 품질 요소 추정하기: project > 2. Quality.md
